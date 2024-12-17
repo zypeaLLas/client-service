@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "killua214/user-service"
+    dockerimagename = "killua214/client-service"
     dockerImage = ""
   }
 
